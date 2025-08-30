@@ -55,7 +55,7 @@ By prioritizing **hyper-local interactions**, SpotWise ensures:
 ```bash
 # Clone the repository
 git clone https://github.com/dhanushkumarms/spotwise.git
-cd spotwise/frontend
+cd spotwise
 
 # Install dependencies
 npm install
